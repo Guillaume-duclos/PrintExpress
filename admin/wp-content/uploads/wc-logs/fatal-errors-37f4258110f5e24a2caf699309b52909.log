@@ -1,0 +1,45 @@
+2018-02-06T18:32:52+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/Users/guillaum...', true)
+#1 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/Users/guillaum...', true)
+#2 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/Users/guillaum...')
+#3 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/update.php(215): find_core_auto_update()
+#4 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/class-wp-hook.php(3
+
+2018-02-06T21:02:08+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/Users/guillaum...', true)
+#1 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/Users/guillaum...', true)
+#2 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/Users/guillaum...')
+#3 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/update.php(215): find_core_auto_update()
+#4 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/class-wp-hook.php(3
+
+2018-02-07T18:31:32+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/Users/guillaum...', true)
+#1 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/Users/guillaum...', true)
+#2 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/Users/guillaum...')
+#3 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/update.php(215): find_core_auto_update()
+#4 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/class-wp-hook.php(3
+
+2018-02-07T21:01:55+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/Users/guillaum...', true)
+#1 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/Users/guillaum...', true)
+#2 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/Users/guillaum...')
+#3 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/update.php(215): find_core_auto_update()
+#4 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/class-wp-hook.php(3
+
+2018-02-08T11:23:44+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/Users/guillaum...', true)
+#1 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/Users/guillaum...', true)
+#2 /Users/guillaume/Desktop/site ecommerce/admin/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/Users/guillaum...')
+#3 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/update.php(215): find_core_auto_update()
+#4 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /Users/guillaume/Desktop/site ecommerce/admin/wp-includes/class-wp-hook.php(3
+
